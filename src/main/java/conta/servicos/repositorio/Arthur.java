@@ -1,4 +1,4 @@
-package conta.servicos.respositorio;
+package conta.servicos.repositorio;
 
 /**
  * Classe criada para o meu filho Arthur mexer, já que ele está aqui e não me deixa estudar.

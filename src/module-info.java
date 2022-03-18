@@ -12,5 +12,6 @@ module conta.servicos {
     requires spring.jdbc;
 
     // abre respositorio
-    opens conta.servicos.respositorio;
+    opens conta.servicos.repositorio;
+    opens test.java.teste.integracao;
 }
